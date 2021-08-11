@@ -3,9 +3,15 @@
   "site_title": "Atelier des Grandes Dalles",
   "site_description": "Visitez l'atelier des Grandes Dalles",
   "site_keywords": [
-    "Peinture",
-    "Normandie",
-    "Grandes Dalles"
+    {
+      "keyword": "Peinture"
+    },
+    {
+      "keyword": "Normandie"
+    },
+    {
+      "keyword": "Grandes Dalles"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "test",
