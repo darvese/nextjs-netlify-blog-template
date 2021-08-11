@@ -1,19 +1,13 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://sharp-meitner-f7c651.netlify.app",
+  "site_title": "Atelier des Grandes Dalles",
+  "site_description": "Visitez l'atelier des Grandes Dalles",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Peinture",
+    "Normandie",
+    "Grandes Dalles"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": " ",
+  "github_account": " "
 }
